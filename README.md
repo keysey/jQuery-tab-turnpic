@@ -1,0 +1,2 @@
+# jQuery-turnpic
+fadeIn fadeOut
